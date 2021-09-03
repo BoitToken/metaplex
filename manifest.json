@@ -1,23 +1,23 @@
 {
-  "name": "Metaplex NFT Marketplace",
-  "short_name": "Metaplex NFT Marketplace",
+  "name": "BOIT NFT Marketplace",
+  "short_name": "BOIT NFT",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#002140",
   "background_color": "#001529",
   "icons": [
     {
-      "src": "/favicon-16x16.png",
+      "src": "/boit-16x16.png",
       "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "/favicon-32x32.png",
+      "src": "/boit-32x32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "/favicon-96x96.png",
+      "src": "/boit-96x96.png",
       "sizes": "96x96",
       "type": "image/png"
     }
